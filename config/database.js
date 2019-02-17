@@ -1,4 +1,4 @@
 module.exports = {
-  database: 'mongodb://localhost/nodejs-blog',
+  database: 'mongodb://mongodb/nodejs-blog',
   secret: 'keyboard cat'
 }
